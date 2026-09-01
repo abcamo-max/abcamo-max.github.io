@@ -1,5 +1,5 @@
 ---
-permalink: /post
+permalink: /contents/post
 layout: page
 title: post
 ---
