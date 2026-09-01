@@ -2,9 +2,6 @@ title: My blog 1
 
 theme: minima
 
-# Minima social links
-bsky_username: abcdef123
-
 # Minima: custom header links
 header_pages:
   - _pages/contents.md
