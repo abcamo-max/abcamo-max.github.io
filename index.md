@@ -1,1 +1,3 @@
-layout: home
+## Welcome page
+
+welcome
