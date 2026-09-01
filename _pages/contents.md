@@ -4,4 +4,4 @@ layout: page
 title: contents
 ---
 
-[post1](_posts/post1.md)
+[post1](/_posts/post1.md)
