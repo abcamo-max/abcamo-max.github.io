@@ -5,7 +5,7 @@ theme: minima
 # Minima social links
 social_links:
   - title: title
-    icon: bluesky
+    icon: bsky
     url: https://bsky.app/
 
 # Minima: custom header links
