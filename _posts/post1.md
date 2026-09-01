@@ -1,5 +1,5 @@
 ---
-permalink: /_posts/post1
+permalink: /post1
 layout: page
 title: post1
 ---
