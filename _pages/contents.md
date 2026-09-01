@@ -4,6 +4,6 @@ layout: page
 title: contents
 ---
 
-[post1](/_posts/post1.md)
+[post1](/_posts/post1)
 
-[post](/_pages/post.md)
+[post](/_pages/post)
