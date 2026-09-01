@@ -11,6 +11,9 @@ minima:
     - title: title
     - icon: bluesky
     - url: https://bsky.app/
+
+include:
+  - _pages
     
 exclude: 
     - Gemfile
