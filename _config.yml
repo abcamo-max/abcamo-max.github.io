@@ -3,10 +3,7 @@ title: My blog 1
 theme: minima
 
 # Minima social links
-social_links:
-  - title: title
-    icon: bsky
-    url: https://bsky.app/
+bsky_username: abcdef123
 
 # Minima: custom header links
 header_pages:
