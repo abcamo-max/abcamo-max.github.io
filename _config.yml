@@ -6,6 +6,7 @@ theme: minima
 header_pages:
   - test.md
   - _pages/frontpage.md
+  - folder
 
 include:
     - folder
