@@ -3,14 +3,14 @@ title: My blog 1
 theme: minima
 
 # Minima: custom header links
-minima:
-  nav_pages:
-    - _pages/contents.md
-    - _pages/frontpage.md
-  social_links:
-    - title: title
-    - icon: bluesky
-    - url: https://bsky.app/
+header_pages:
+  - _pages/contents.md
+  - _pages/frontpage.md
+
+social_links:
+  - title: title
+  - icon: bluesky
+  - url: https://bsky.app/
 
 include:
   - _pages
