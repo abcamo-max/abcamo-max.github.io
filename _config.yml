@@ -1,1 +1,19 @@
+title: My blog
+description: My very nice blog
+author: "abcamo-max"
 
+theme: minima
+
+base_url: /abcamo-max.github.io
+repository: abcamo-max/abcamo-max.github.io
+
+# Minima: custom header links
+header_pages:
+  - folder/test2.md
+
+include:
+    - folder
+
+exclude: 
+    - Gemfile
+    - README.md
