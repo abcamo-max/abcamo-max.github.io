@@ -5,11 +5,14 @@ theme: minima
 # Minima: custom header links
 header_pages:
   - test.md
+  - _pages/frontpage.md
 
 include:
     - folder
+    - _pages
 
 exclude: 
     - Gemfile
     - Gemfile.lock
     - README.md
+    - index.md
