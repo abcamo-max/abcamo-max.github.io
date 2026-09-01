@@ -1,16 +1,3 @@
+theme: minima
 title: My blog
 description: My very nice blog
-author: "abcamo-max"
-
-theme: minima
-
-# Minima: custom header links
-header_pages:
-  - folder/test2.md
-
-include:
-    - folder
-
-exclude: 
-    - Gemfile
-    - README.md
