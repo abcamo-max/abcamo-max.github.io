@@ -1,1 +1,15 @@
+title: My blog
+
 theme: minima
+
+# Minima: custom header links
+header_pages:
+  - folder/test2.md
+
+include:
+    - folder
+
+exclude: 
+    - Gemfile
+    - Gemfile.lock
+    - README.md
