@@ -5,3 +5,5 @@ title: contents
 ---
 
 [post1](/_posts/post1.md)
+
+[post](/_pages/post.md)
