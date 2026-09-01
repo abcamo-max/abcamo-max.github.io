@@ -7,11 +7,6 @@ header_pages:
   - _pages/contents.md
   - _pages/frontpage.md
 
-social_links:
-  - title: title
-  - icon: bluesky
-  - url: https://bsky.app/
-
 include:
   - _pages
     
